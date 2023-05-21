@@ -1,5 +1,12 @@
-body{
-    background-color: white;
+h2{
+    text-align: center;
+    padding-top: 5%;
+}
+p{
+    text-align: center;
+}
+.background{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(0, 234, 255));
 }
 
 .block {
@@ -23,3 +30,7 @@ body{
     clear: both;
     display: table;
   }
+.ul-lists{
+    text-align: center;
+    list-style-type: none;
+}
