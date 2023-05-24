@@ -18,8 +18,17 @@ body{
   }
   
   /* Clear floats after image containers */
-  .row::after {
+.row::after {
     content: "";
     clear: both;
     display: table;
   }
+.image{
+  width: 250px;
+  height: 250px;
+  }
+
+.background{
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(0, 234, 255));
+}
+
