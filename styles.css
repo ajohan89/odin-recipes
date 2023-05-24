@@ -1,5 +1,6 @@
-body{
-    background-color: white;
+
+.background{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(0, 234, 255));
 }
 
 .block {
@@ -23,6 +24,7 @@ body{
     clear: both;
     display: table;
   }
+<<<<<<< HEAD
 .image{
   width: 250px;
   height: 250px;
@@ -32,3 +34,9 @@ body{
   background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(0, 234, 255));
 }
 
+=======
+.ul-lists{
+    text-align: left;
+  
+}
+>>>>>>> 2a778b6d4b142a326021cc8460763844022ab3e5
