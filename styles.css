@@ -9,8 +9,13 @@
     border-bottom-width: 300px;
     padding-right: 100px;
 
-
 }
+
+.image{
+  width: 250px;
+  height: 250px;
+  }
+
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
     float: left;
@@ -25,10 +30,6 @@
     display: table;
   }
 <<<<<<< HEAD
-.image{
-  width: 250px;
-  height: 250px;
-  }
 
 .background{
   background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(0, 234, 255));
